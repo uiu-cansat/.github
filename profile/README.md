@@ -4,7 +4,6 @@ Welcome to the official GitHub organization of **UIU CanSat**, a student-driven 
 
 We design, build, and test miniature satellite systems — known as **CanSats** — to simulate real-world space missions and compete in national and international CanSat competitions.
 
----
 
 ## 📡 About CanSat
 
@@ -15,7 +14,11 @@ A **CanSat** is a type of mini satellite integrated within the volume and shape 
 - Descent control
 - Autonomous system operations
 
----
+
+## 🛰️ Our Mission
+
+> *"To inspire and equip the next generation of space engineers through hands-on CanSat development and real-world aerospace challenges."*
+
 
 ## 🧠 What We Do
 
@@ -25,7 +28,6 @@ A **CanSat** is a type of mini satellite integrated within the volume and shape 
 - Participate in competitions and research in aerospace technologies  
 - Collaborate on multidisciplinary engineering challenges
 
----
 
 ## 🧑‍💻 Projects
 
@@ -38,7 +40,6 @@ A **CanSat** is a type of mini satellite integrated within the volume and shape 
 
 > 🛠️ Check individual repositories within the organization for specific instructions and documentation.
 
----
 
 ## 📚 Getting Started
 
@@ -47,3 +48,10 @@ To contribute or set up a project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/UIUCanSat/<repo-name>.git
+
+
+## 📬 Contact Us
+
+* 📧 **Email**: [uiucansat@gmail.com](mailto:uiucansat@gmail.com)
+* 🌐 **Website**: \[Coming Soon]
+* 📍 **Location**: United International University, Dhaka, Bangladesh
