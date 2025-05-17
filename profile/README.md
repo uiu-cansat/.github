@@ -48,7 +48,7 @@ To contribute or set up a project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/UIUCanSat/<repo-name>.git
-
+   ```
 
 ## 📬 Contact Us
 
